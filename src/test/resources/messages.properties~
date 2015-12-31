@@ -1,0 +1,52 @@
+# Properties used for automation testing
+
+tamc.errorMessage              = Please correct the error below.
+tamc.errosMessage              = Please correct the errors below.
+tamc.maxLengthErrorMessage     = Maximum length is 35
+tamc.fieldRequiredErrorMessage = This field is required
+tamc.invalidEmailErrorMessage  = Enter a valid email address.
+tamc.emailMismatchErrorMessage = Emails do not match.
+tamc.invalidNameErrorMessage   = Invalid characters
+tamc.existingEmailErrorMessage = Email is already registered.
+tamc.errorpage.message1        = Sorry, we’re experiencing technical difficulties
+tamc.errorpage.message2        = Please try again in a few minutes.
+
+tamc.eligibility.title         = Transferable Allowances for Married Couples - GOV.UK - Eligibility
+tamc.home.title                = Transferable Allowances for Married Couples - GOV.UK - Register
+tamc.registration.title        = Transferable Allowances for Married Couples - GOV.UK - Register
+tamc.successpage.text          = You will be invited to apply
+
+tamc.continue.button           = Continue
+tamc.startnow.button           = Start now
+tamc.waitng.time               = 10
+
+tamc.local.app.root            = http://localhost:9901
+tamc.dev.app.root              = https://www-dev.tax.service.gov.uk
+tamc.qa.app.root               = https://web-qa.tax.service.gov.uk
+tamc.root.url                  = tamc-pre-reg
+tamc.error.url                 = error
+tamc.register.url              = register
+tamc.form.url                  = form
+tamc.success.text.xpath        = /html/body/main/div/article/p[3]
+tamc.success.button.xpath      = /html/body/main/div/article/form/p/button
+
+tamc.chrome.driver.path        = /home/user02/Downloads/chromedriver
+tamc.phantomjs.binary.path     = /home/user02/Downloads/phantomjs-1.9.8-linux-x86_64/bin/phantomjs
+tamc.zap.proxy                 = localhost:8080
+
+# Browserstack properties
+browserstack.username = gauravsharma22
+browserstack.automateKey = QHQnVKK6pJEsRk8jyDz8
+
+browserstack.browsertocheck    = /browserstackdata/BS_Win8_Chrome_38.json
+
+browserstack.devicetocheck    = /browserstackdata/BS_iOS_iPhone5S.json
+
+
+
+
+
+
+
+
+
