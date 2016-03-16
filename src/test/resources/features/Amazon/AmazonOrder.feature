@@ -17,7 +17,7 @@ Feature: To verify order history
 
   Examples:
   |       email                |    password       |
-  | shivach292015@gmail.com    | @shiva@ch292015   |
+  |    add your email          |   password        |
 
    Scenario Outline: To verify for a New Order
 
@@ -34,4 +34,4 @@ Feature: To verify order history
 
      Examples:
        |       email                |    password       |
-       | shivach292015@gmail.com    | @shiva@ch292015   |
+       |    add your email          |   password        |

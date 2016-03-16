@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orangebustest.iml" filepath="$PROJECT_DIR$/.idea/modules/orangebustest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orangebustest-build.iml" filepath="$PROJECT_DIR$/.idea/modules/orangebustest-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orangebustest-acceptance-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/orangebustest-acceptance-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orangebustest-acceptance-tests-build.iml" filepath="$PROJECT_DIR$/.idea/modules/orangebustest-acceptance-tests-build.iml" />
     </modules>
   </component>
 </project>
